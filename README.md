@@ -3,7 +3,7 @@ Documentación correspondiente al proyecto "TableTop" para el evento ExpoCenfo d
 
 ## Olimpiadas de Computación (ExpoCenfo)
 
-Es una competencia costarricense con cede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. 
+Es una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. 
 
 El reglamento completo se encuentra en el siguiente enlace: [link](https://link-al-reglamento).
 
