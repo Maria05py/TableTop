@@ -5,7 +5,7 @@ Documentación correspondiente al proyecto "TableTop" para el evento ExpoCenfo d
 
 Es una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. 
 
-El reglamento completo se encuentra en el siguiente enlace: [link](https://link-al-reglamento).
+El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
 
 ## Prototipo 3D:
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 02_3d3d445a](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/fea3f383-6097-4f18-80c6-11b914b5fcbc)
