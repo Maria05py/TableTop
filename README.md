@@ -1,5 +1,5 @@
 # TableTop
-Documentación correspondiente al proyecto "TableTop" para el evento ExpoCenfo de Universidad Cenfotec. El presente proyecto propone la creación de una mesa útil y multifuncional implementando sistemas ciberfísicos.
+Documentación correspondiente al proyecto "TableTop" para el evento ExpoCenfo de Universidad Cenfotec. El presente proyecto propone la creación de una mesa útil y multifuncional en pro del aprovechamiento de sistemas ciberfísicos.
 
 ## Olimpiadas de Computación inteligente (ExpoCenfo)
 
@@ -14,6 +14,7 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 28_593eec7b](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/4246552a-8e69-4ef2-93f1-8037917c496c)
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 59_6e4e2997](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/2996a9c4-739b-466a-9585-86846bbcc135)
 
+## Pasos llevados a cabo durante la creación:
 
 ## Materiales no electrónicos:
 - Melamina (Dimensiones aquí)
