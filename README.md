@@ -22,12 +22,18 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
   
 ## Materiales electrónicos:
 
-A cada equipo participante se le entregarán dos kits que contienen:
 1. Microcontrolador [IdeaBoard (ESP32)](https://enlace-al-ideaboard) (Seguir esta plantilla)
 
+## Explicación del código:
 ## Manual de mapeado:
 ## Pasos llevados a cabo durante la creación:
-## Pasos llevados a cabo durante la creación:
+## Usos y problemas detectados:
+## Librerías empleadas: 
+## Participantes:
+Braulio 
+María Jesús Rodríguez Molina
+Geisel Thais Hernández Quesada
+Melina Valeska Soto Badilla 
 
 
 ## Licencia:
