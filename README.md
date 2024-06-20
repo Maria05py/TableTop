@@ -30,10 +30,10 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 ## Usos y problemas detectados:
 ## Librerías empleadas: 
 ## Participantes:
-Braulio 
-María Jesús Rodríguez Molina
-Geisel Thais Hernández Quesada
-Melina Valeska Soto Badilla 
+- Braulio Garro Marín
+- María Jesús Rodríguez Molina
+- Geisel Thais Hernández Quesada
+- Melina Valeska Soto Badilla 
 
 
 ## Licencia:
