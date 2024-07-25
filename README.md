@@ -31,6 +31,14 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 - ...
   
 ## Materiales electrónicos:
+- Placa de desarrollo ESP32
+- Cargador de iones de litio multicelda 2S, 3S, 4S
+- Cobvertidor Buck de 100W
+- Tira de luces LED WS2811
+- Módulo de placa multiplexor digital analógico
+- Módulo de sensor de evitación infrarrojo IR
+- Módulo RFID
+  
 
 1. Microcontrolador [IdeaBoard (ESP32)](https://enlace-al-ideaboard) (Seguir esta plantilla)
 
