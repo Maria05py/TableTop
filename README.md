@@ -44,7 +44,6 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 
 ## Explicación del código:
 ## Manual de mapeado:
-## Pasos llevados a cabo durante la creación:
 ## Usos y problemas detectados:
 ## Librerías empleadas: 
 ## Participantes:
