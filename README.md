@@ -1,9 +1,11 @@
 # TableTop
-Documentación correspondiente al proyecto "TableTop" para el evento ExpoCenfo de Universidad Cenfotec. El presente proyecto propone la creación de una mesa útil y multifuncional en pro del aprovechamiento de sistemas ciberfísicos.
+Documentación del proyecto "TableTop" para el evento ExpoCenfo de la Universidad Cenfotec. Este proyecto propone la creación de una mesa multifuncional que maximiza el uso de sistemas ciberfísicoss, creado por estudiantes de dicha universidad.
+
+Nuestro proyecto busca apoyar a personas con ansiedad (Especialmente, en el rango de edad de x a x años) a no solo contar con una mesa para compartir en familia y crear un espacio de bienestar, sino a tratar con juegos, terapias y una posible mesa con display programable para crear y explorar las zonas de recreación desde un punto de vista diferente a lo habitual.
 
 ## Olimpiadas de Computación inteligente (ExpoCenfo)
 
-Es una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. 
+Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Centotec. 
 
 El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
 
@@ -13,8 +15,10 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 03_3f1b13b2](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/ed11710f-07cf-4d60-bdb2-ba66b35399bf)
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 28_593eec7b](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/4246552a-8e69-4ef2-93f1-8037917c496c)
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 59_6e4e2997](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/2996a9c4-739b-466a-9585-86846bbcc135)
+(El diseño 3D le corresponden al estudiante Braulio Garro Marín)
 
 ## Pasos llevados a cabo durante la creación:
+Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
@@ -27,17 +31,23 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 ![image](https://github.com/user-attachments/assets/985cd7f6-e2ed-48e9-9cc3-8d96c03b7654)
 
 ## Materiales no electrónicos:
-- Melamina (Dimensiones aquí)
-- ...
+- Melamina 
+- Cautín
+- Estaño
+- 
   
 ## Materiales electrónicos:
 - Placa de desarrollo ESP32
 - Cargador de iones de litio multicelda 2S, 3S, 4S
-- Cobvertidor Buck de 100W
-- Tira de luces LED WS2811
+- Convertidor buck ajustable de 1000W
+- Tira de luces LED WS2811 (x100 LEDs)
 - Módulo de placa multiplexor digital analógico
-- Módulo de sensor de evitación infrarrojo IR
+- Módulo de sensor de evitación infrarrojo IR (x100 sensores de evitación)
 - Módulo RFID
+- Teclado AD de cinco teclas con botón analógico para placa de expansión arduino
+- Etiqueta universal ultraligera de 25mm
+- Cable de cobre de distintos grosores 
+- 
   
 
 1. Microcontrolador [IdeaBoard (ESP32)](https://enlace-al-ideaboard) (Seguir esta plantilla)
@@ -46,12 +56,12 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 ## Manual de mapeado:
 ## Usos y problemas detectados:
 ## Librerías empleadas: 
+
 ## Participantes:
 - Braulio Garro Marín
 - María Jesús Rodríguez Molina
 - Geisel Thais Hernández Quesada
-- Melina Valeska Soto Badilla 
-
-
+- Melina Valeska Soto Badilla
+  
 ## Licencia:
 Creative Commons 
