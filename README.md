@@ -21,6 +21,7 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 ## Pasos llevados a cabo durante la creación:
 
 Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
+
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
