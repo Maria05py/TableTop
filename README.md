@@ -34,9 +34,7 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 
 ## Materiales no electrónicos:
 - Melamina 
-- Cautín
-- Estaño
-- 
+- (Falta terminar de enlistar debido a que aún no se ha completado el proceso)
   
 ## Materiales electrónicos:
 - Placa de desarrollo ESP32
@@ -49,8 +47,7 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 - Teclado AD de cinco teclas con botón analógico para placa de expansión arduino
 - Etiqueta universal ultraligera de 25mm
 - Cable de cobre de distintos grosores 
-- 
-  
+
 
 1. Microcontrolador [IdeaBoard (ESP32)](https://enlace-al-ideaboard) (Seguir esta plantilla)
 
