@@ -15,9 +15,11 @@ El sitio oficial del evento, incluyendo las normativas y demás especificaciones
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 03_3f1b13b2](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/ed11710f-07cf-4d60-bdb2-ba66b35399bf)
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 28_593eec7b](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/4246552a-8e69-4ef2-93f1-8037917c496c)
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 59_6e4e2997](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/2996a9c4-739b-466a-9585-86846bbcc135)
+
 (El diseño 3D le corresponden al estudiante Braulio Garro Marín)
 
 ## Pasos llevados a cabo durante la creación:
+
 Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
