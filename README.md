@@ -32,6 +32,10 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 ![image](https://github.com/user-attachments/assets/e75d7ab4-8aed-4f1d-bdf3-5083e333dd1f)
 ![image](https://github.com/user-attachments/assets/4c2cef89-ea78-4df5-ba46-4a564869e9fa)
 ![image](https://github.com/user-attachments/assets/985cd7f6-e2ed-48e9-9cc3-8d96c03b7654)
+![Imagen de WhatsApp 2024-08-11 a las 13 56 32_f2a4d858](https://github.com/user-attachments/assets/b5e2ec93-259d-41d5-8a67-c49765612f34)
+![Imagen de WhatsApp 2024-08-11 a las 13 56 32_85e9ffc6](https://github.com/user-attachments/assets/6ed487dd-6677-4b03-8f43-cdc099f4fda1)
+![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
+
 
 ## Materiales no electrónicos:
 - Melamina 
