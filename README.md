@@ -20,11 +20,14 @@ Las Olimpiadas de Computación inteligente corresponden a una competencia costar
 
 
 ## Diseño 3D:
+El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 en el software "". A continuación se muestran las dimensiones y el diseño general de la mesa, además de las piezas a cortar para el acabado final. 
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 02_3d3d445a](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/fea3f383-6097-4f18-80c6-11b914b5fcbc)
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 02_32868ecb](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/84a7232d-6e8e-4d38-9dd1-e6dcd4ce62df)
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 03_3f1b13b2](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/ed11710f-07cf-4d60-bdb2-ba66b35399bf)
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 28_593eec7b](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/4246552a-8e69-4ef2-93f1-8037917c496c)
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 59_6e4e2997](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/2996a9c4-739b-466a-9585-86846bbcc135)
+![Imagen de WhatsApp 2024-08-16 a las 15 52 16_07ad1a83](https://github.com/user-attachments/assets/c0473fe2-94e7-4e53-8424-f0b0f1d7c29e)
+
 
 (El diseño 3D le corresponden al estudiante Braulio Garro Marín)
 
