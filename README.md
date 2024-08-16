@@ -1,13 +1,22 @@
 # TableTop
-Documentación del proyecto "TableTop" para el evento ExpoCenfo de la Universidad Cenfotec. Este proyecto propone la creación de una mesa multifuncional que maximiza el uso de sistemas ciberfísicoss, creado por estudiantes de dicha universidad.
+Documentación del proyecto "TableTop" para el evento ExpoCenfo de la Universidad Cenfotec. Este proyecto propone la creación de una mesa multifuncional que maximiza el uso de sistemas ciberfísicos, promoviendo el bienestar y acercando la tecnología a distintas generaciones.
 
-Nuestro proyecto busca apoyar a niños (Especialmente, en el rango de edad de x a x años) a no solo contar con una mesa para compartir en familia y crear un espacio de bienestar, sino a tratar con juegos, terapias y una posible mesa con display programable para crear y explorar las zonas de recreación desde un punto de vista diferente a lo habitual.
+# ¿Qué es TableTop?
+El objetivo principal de este proyecto es apoyar a niños, especialmente en el rango de edad de 5 a 12 años, proporcionando una mesa que no solo fomente el compartir en familia y cree un ambiente de bienestar, sino que también ofrezca juegos, terapias, y un display programable. Esta mesa permitirá a los niños explorar áreas de recreación desde una perspectiva diferente a los dispositivos normalmente utiizados.
 
 ## Olimpiadas de Computación inteligente (ExpoCenfo)
-
-Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Centotec. 
-
+Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Cenfotec. 
 El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
+
+## Contenidos:
+- Proyecto presentado
+- Pasos llevados durante la creación
+- Materiales
+  - Materiales no electrónicos
+  - Materiales electrónicos
+- Código utilizado
+- Licencia
+
 
 ## Diseño 3D:
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 02_3d3d445a](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/fea3f383-6097-4f18-80c6-11b914b5fcbc)
@@ -39,11 +48,12 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 
 ## Materiales no electrónicos:
 - Melamina 
-- (Falta terminar de enlistar debido a que aún no se ha completado el proceso)
+- Silicón caliente
   
 ## Materiales electrónicos:
 - Placa de desarrollo ESP32
 - Cargador de iones de litio multicelda 2S, 3S, 4S
+- uJPM TXS0108E 8-Channel Logic Level Bi-Directional Converter
 - Convertidor buck ajustable de 1000W
 - Tira de luces LED WS2811 (x100 LEDs)
 - Módulo de placa multiplexor digital analógico
@@ -53,8 +63,6 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 - Etiqueta universal ultraligera de 25mm
 - Cable de cobre de distintos grosores 
 
-
-1. Microcontrolador [IdeaBoard (ESP32)](https://enlace-al-ideaboard) (Seguir esta plantilla)
 
 ## Explicación del código:
 ## Manual de mapeado:
