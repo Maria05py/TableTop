@@ -9,18 +9,18 @@ El presente proyecto es un prototipo equipado con las funcionalidades básicas d
 ## Olimpiadas de Computación inteligente (ExpoCenfo)
 Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Cenfotec. El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
 
-## Contenidos:
-- Proyecto presentado
-- Pasos llevados durante la creación
-- Materiales
-  - Materiales no electrónicos
-  - Materiales electrónicos
-- Código utilizado
-- Licencia
+## Índice de Contenido
 
-
+1. [Diseño 3D](#diseño-3d)
+2. [Materiales no electrónicos](#materiales-no-electrónicos)
+3. [Materiales electrónicos](#materiales-electrónicos)
+5. [Pasos y creación ](#instalación)
+6. [Uso](#uso)
+8. [Licencia](#licencia)
+9. 
 ## Diseño 3D:
-El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 en el software "". A continuación se muestran las dimensiones y el diseño general de la mesa, además de las piezas a cortar para el acabado final. 
+El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 en el software "SketchUp". A continuación se muestran las dimensiones y el diseño general de la mesa, además de las piezas a cortar para el acabado final, en este caso melamina. 
+
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 02_3d3d445a](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/fea3f383-6097-4f18-80c6-11b914b5fcbc)
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 02_32868ecb](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/84a7232d-6e8e-4d38-9dd1-e6dcd4ce62df)
 ![Imagen de WhatsApp 2024-06-18 a las 14 02 03_3f1b13b2](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/ed11710f-07cf-4d60-bdb2-ba66b35399bf)
@@ -28,11 +28,25 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 ![Imagen de WhatsApp 2024-06-08 a las 18 51 59_6e4e2997](https://github.com/Maria05py/TableTop---ExpoCenfo-/assets/160543497/2996a9c4-739b-466a-9585-86846bbcc135)
 ![Imagen de WhatsApp 2024-08-16 a las 15 52 16_07ad1a83](https://github.com/user-attachments/assets/c0473fe2-94e7-4e53-8424-f0b0f1d7c29e)
 
-
-(El diseño 3D le corresponden al estudiante Braulio Garro Marín)
-
+## Materiales no electrónicos:
+- Melamina 
+- Silicón caliente
+  
+## Materiales electrónicos:
+- Placa de desarrollo ESP32.
+- Cargador de iones de litio multicelda 2S, 3S, 4S.
+- uJPM TXS0108E 8-Channel Logic Level Bi-Directional Converter.
+- Convertidor buck ajustable de 1000W.
+- Tira de luces LED WS2811 (100 LEDs utilizados en este caso).
+- Módulo de placa multiplexor digital analógico (7 utilizados en este caso).
+- Módulo de sensor de evitación infrarrojo IR (x100 sensores de evitación en este caso).
+- Módulo RFID.
+- Teclado AD de cinco teclas con botón analógico para placa de expansión arduino.
+- Etiqueta universal ultraligera de 25mm.
+- Cable de cobre de distintos grosores.
+  
 ## Pasos llevados a cabo durante la creación:
-
+Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la mesa en su totalidad. Elistados en orden, primeramente se debieron de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar. Seguidamente, se procede a cortar  
 Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
 
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
@@ -50,22 +64,7 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
-## Materiales no electrónicos:
-- Melamina 
-- Silicón caliente
-  
-## Materiales electrónicos:
-- Placa de desarrollo ESP32
-- Cargador de iones de litio multicelda 2S, 3S, 4S
-- uJPM TXS0108E 8-Channel Logic Level Bi-Directional Converter
-- Convertidor buck ajustable de 1000W
-- Tira de luces LED WS2811 (x100 LEDs)
-- Módulo de placa multiplexor digital analógico
-- Módulo de sensor de evitación infrarrojo IR (x100 sensores de evitación)
-- Módulo RFID
-- Teclado AD de cinco teclas con botón analógico para placa de expansión arduino
-- Etiqueta universal ultraligera de 25mm
-- Cable de cobre de distintos grosores 
+
 
 
 ## Explicación del código:
