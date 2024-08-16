@@ -1,7 +1,7 @@
 # TableTop
 Documentación del proyecto "TableTop" para el evento ExpoCenfo de la Universidad Cenfotec. Este proyecto propone la creación de una mesa multifuncional que maximiza el uso de sistemas ciberfísicoss, creado por estudiantes de dicha universidad.
 
-Nuestro proyecto busca apoyar a personas con ansiedad (Especialmente, en el rango de edad de x a x años) a no solo contar con una mesa para compartir en familia y crear un espacio de bienestar, sino a tratar con juegos, terapias y una posible mesa con display programable para crear y explorar las zonas de recreación desde un punto de vista diferente a lo habitual.
+Nuestro proyecto busca apoyar a niños (Especialmente, en el rango de edad de x a x años) a no solo contar con una mesa para compartir en familia y crear un espacio de bienestar, sino a tratar con juegos, terapias y una posible mesa con display programable para crear y explorar las zonas de recreación desde un punto de vista diferente a lo habitual.
 
 ## Olimpiadas de Computación inteligente (ExpoCenfo)
 
