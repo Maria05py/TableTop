@@ -14,10 +14,10 @@ Las Olimpiadas de Computación inteligente corresponden a una competencia costar
 1. [Diseño 3D](#diseño-3d)
 2. [Materiales no electrónicos](#materiales-no-electrónicos)
 3. [Materiales electrónicos](#materiales-electrónicos)
-5. [Pasos y creación ](#instalación)
-6. [Uso](#uso)
+4. [Pasos y creación ](#pasos-y-creación)
+5. [Códigos y librerías empleadas](#códigos-y-librerías-empleadas)
 8. [Licencia](#licencia)
-9. 
+
 ## Diseño 3D:
 El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 en el software "SketchUp". A continuación se muestran las dimensiones y el diseño general de la mesa, además de las piezas a cortar para el acabado final, en este caso melamina. 
 
@@ -45,7 +45,7 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 - Etiqueta universal ultraligera de 25mm.
 - Cable de cobre de distintos grosores.
   
-## Pasos llevados a cabo durante la creación:
+## Pasos y creación:
 Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la mesa en su totalidad. Elistados en orden, primeramente se debieron de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar. Seguidamente, se procede a cortar  
 Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
 
@@ -67,7 +67,7 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 
 
 
-## Explicación del código:
+## Códigos y librerías empleadas:
 ## Manual de mapeado:
 ## Usos y problemas detectados:
 ## Librerías empleadas: 
