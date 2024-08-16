@@ -79,5 +79,6 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
   
 ## Licencia:
 Este proyecto está licenciado bajo los términos de la Licencia Creative Commons.
+
 ![image](https://github.com/user-attachments/assets/681f2a88-7127-487d-ab5a-e2d6f7267443)
 
