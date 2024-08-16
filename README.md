@@ -16,6 +16,7 @@ Las Olimpiadas de Computación inteligente corresponden a una competencia costar
 3. [Materiales electrónicos](#materiales-electrónicos)
 4. [Pasos y creación ](#pasos-y-creación)
 5. [Códigos y librerías empleadas](#códigos-y-librerías-empleadas)
+6. [Usos y problemas detectados](#Usos-y-problemas-detectados)
 8. [Licencia](#licencia)
 
 ## Diseño 3D:
@@ -65,12 +66,10 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
 
+## Códigos, mapeados y librerías empleadas:
 
-
-## Códigos y librerías empleadas:
-## Manual de mapeado:
 ## Usos y problemas detectados:
-## Librerías empleadas: 
+
 
 ## Participantes:
 - Braulio Garro Marín
@@ -79,4 +78,6 @@ Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el pro
 - Melina Valeska Soto Badilla
   
 ## Licencia:
-Creative Commons 
+Este proyecto está licenciado bajo los términos de la Licencia Creative Commons.
+![image](https://github.com/user-attachments/assets/76c2ccbe-2b90-461e-9805-d970d4b378d7)
+
