@@ -86,6 +86,11 @@ Para crear el display final se colocan las respectivas tiras de leds de forma en
 ![Imagen de WhatsApp 2024-08-16 a las 23 11 40_c0f88f87](https://github.com/user-attachments/assets/a1d1e9e4-0f1c-4222-875c-df0e3e4b3c2d)
 ![Imagen de WhatsApp 2024-08-16 a las 23 14 34_636a6f1e](https://github.com/user-attachments/assets/58da91ab-2b2f-4863-8540-1ec982f6ca87)
 
+Antes de completar el proceso de montaje del display, se recomienda comprobar el estado de todos los LEDs de la matriz mediante animaciones, dibujos y demás, como se puede observar en las siguientes imágenes. 
+![Imagen de WhatsApp 2024-08-17 a las 18 15 02_96942961](https://github.com/user-attachments/assets/0e985deb-0709-499b-86c6-a509c6283b00)
+![Imagen de WhatsApp 2024-08-18 a las 12 11 58_bb98c2f2](https://github.com/user-attachments/assets/76872487-675b-47b6-8a41-62a9dde6f59c)
+![Imagen de WhatsApp 2024-08-18 a las 16 06 51_b8d5f709](https://github.com/user-attachments/assets/0f7f23f8-8b5f-4d6c-851e-5407ff1b81b6)
+
 
 ## Códigos, mapeados y librerías empleadas:
 
