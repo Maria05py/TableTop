@@ -54,7 +54,7 @@ Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la m
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
 ![image](https://github.com/user-attachments/assets/98d67322-14f6-40d8-8412-d35c240fbdb2)
 
-Elistados en orden, primeramente se deben de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarojos correspondientes. Seguidamente, se procede a cortar cable 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines LED (5V, GRN y DO) respectivamente. Una vez conectados los pines e tiras de 10 LEDs como es posible visualizar en las siguientes imágenes.
+Elistados en orden, primeramente se deben de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarojos correspondientes. Seguidamente, se procede a cortar cable 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines LED (5V, GRN y DO) respectivamente. 
 
 ![image](https://github.com/user-attachments/assets/be3ef577-d0fc-41c9-b9e3-aff1f6c9b0c3)
 (Corte de los cables y uso de la protoboard para la calibrar los 100 sensores infrarojos a utilizar)
