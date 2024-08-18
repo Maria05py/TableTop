@@ -31,7 +31,7 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 
 ## Materiales no electrónicos:
 - Melamina 
-- Silicón caliente
+- MDF (1)
   
 ## Materiales electrónicos:
 - Placa de desarrollo ESP32.
