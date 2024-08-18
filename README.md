@@ -10,7 +10,6 @@ El presente proyecto es un prototipo equipado con las funcionalidades básicas d
 Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Cenfotec. El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
 
 ## Índice de Contenido
-
 1. [Diseño 3D](#diseño-3d)
 2. [Materiales no electrónicos](#materiales-no-electrónicos)
 3. [Materiales electrónicos](#materiales-electrónicos)
@@ -30,8 +29,8 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 ![Imagen de WhatsApp 2024-08-16 a las 15 52 16_07ad1a83](https://github.com/user-attachments/assets/c0473fe2-94e7-4e53-8424-f0b0f1d7c29e)
 
 ## Materiales no electrónicos:
-- Melamina 
-- MDF (1)
+- Melamina (2500mm x 1830mm)
+- MDF (122cm x 244cm)
   
 ## Materiales electrónicos:
 - Placa de desarrollo ESP32.
@@ -42,18 +41,22 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 - Módulo de placa multiplexor digital analógico (7 utilizados en este caso).
 - Módulo de sensor de evitación infrarrojo IR (x100 sensores de evitación en este caso).
 - Módulo RFID.
-- Teclado AD de cinco teclas con botón analógico para placa de expansión arduino.
 - Etiqueta universal ultraligera de 25mm.
 - Cable de cobre de distintos grosores.
+- Estaño.
+- Cables. 
   
 ## Pasos y creación:
-Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la mesa en su totalidad. Elistados en orden, primeramente se debieron de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar. Seguidamente, se procede a cortar  
-Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
+Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la mesa en su totalidad (Unión de cada parte de la melamina, uniónes entre los separadores de la matriz). 
 
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
 ![image](https://github.com/user-attachments/assets/98d67322-14f6-40d8-8412-d35c240fbdb2)
+Elistados en orden, primeramente se deben de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarojos correspondientes. Seguidamente, se procede a cortar cable 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines LED (5V, GRN y DO) respectivamente. Una vez conectados los pines e tiras de 10 LEDs como es posible visualizar en las siguientes imágenes.
+Seguidamente, se procede a cortar  
+Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
+
 ![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 ![image](https://github.com/user-attachments/assets/be3ef577-d0fc-41c9-b9e3-aff1f6c9b0c3)
 ![image](https://github.com/user-attachments/assets/deed618c-77c6-4638-b285-7de243821142)
