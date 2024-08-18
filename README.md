@@ -60,6 +60,7 @@ Elistados en orden, primeramente se deben de calibrar los 100 sensores infrarojo
 (Corte de los cables y uso de la protoboard para la calibrar los 100 sensores infrarojos a utilizar)
 
 Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
+
 ![image](https://github.com/user-attachments/assets/4c2cef89-ea78-4df5-ba46-4a564869e9fa)
 ![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 ![image](https://github.com/user-attachments/assets/deed618c-77c6-4638-b285-7de243821142)
