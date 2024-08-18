@@ -74,11 +74,14 @@ Luego se deben de pegar con silicón los 100 sensores infrarrojos a los separado
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
 Seguidamente, para probar las luces fue utilizada una mini versión del código "[nombre del código que contiene las animaciones en el arduino mega]" y "[nombre del cóigo usado para mostrar el texto]" (Paso opcional)
-![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
+
+Las conexiones de esta mini versión del display son las mismas utilizadas en el display final, el cual consiste en 
+![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
+
+Para crear el display final se colocan las respectivas tiras de leds de forma en la que queden centradas con respecto a las diferentes cuadrículas de la matriz. Las conexiones entre cada una de las tiras se encuentran debajo de la tabla correspondiente. 
 ![Imagen de WhatsApp 2024-08-16 a las 23 11 40_c0f88f87](https://github.com/user-attachments/assets/a1d1e9e4-0f1c-4222-875c-df0e3e4b3c2d)
 ![Imagen de WhatsApp 2024-08-16 a las 23 14 34_636a6f1e](https://github.com/user-attachments/assets/58da91ab-2b2f-4863-8540-1ec982f6ca87)
-
 
 
 ## Códigos, mapeados y librerías empleadas:
