@@ -77,6 +77,7 @@ Seguidamente, para probar las luces fue utilizada una mini versión del código 
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
 
 Las conexiones de esta mini versión del display son las mismas utilizadas en el display final, el cual consiste en 
+
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
 
 Para crear el display final se colocan las respectivas tiras de leds de forma en la que queden centradas con respecto a las diferentes cuadrículas de la matriz. Las conexiones entre cada una de las tiras se encuentran debajo de la tabla correspondiente. 
