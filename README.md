@@ -53,12 +53,14 @@ Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la m
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
 ![image](https://github.com/user-attachments/assets/98d67322-14f6-40d8-8412-d35c240fbdb2)
-Elistados en orden, primeramente se deben de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarojos correspondientes. Seguidamente, se procede a cortar cable 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines LED (5V, GRN y DO) respectivamente. Una vez conectados los pines e tiras de 10 LEDs como es posible visualizar en las siguientes imágenes.
-Seguidamente, se procede a cortar  
-Debido a las dimensiones de la mesa y su complejidad a nivel de hardware, el proceso de creacióm tomó gran cantidad de días. El proceso inició con el corte y unión de las dimensiones de madera, la calibración de los 100 sensores infrarrojos y la soldadura de los 100 LEDs. Luego, se creó una matriz de menor dimensión para la ejecución y prueba de código en menor escala y se soldaron las conexiones base. 
 
-![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
+Elistados en orden, primeramente se deben de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarojos correspondientes. Seguidamente, se procede a cortar cable 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines LED (5V, GRN y DO) respectivamente. Una vez conectados los pines e tiras de 10 LEDs como es posible visualizar en las siguientes imágenes.
+
 ![image](https://github.com/user-attachments/assets/be3ef577-d0fc-41c9-b9e3-aff1f6c9b0c3)
+(Corte de los cables y uso de la protoboard para la calibrar los 100 sensores infrarojos a utilizar)
+
+Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
+![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 ![image](https://github.com/user-attachments/assets/deed618c-77c6-4638-b285-7de243821142)
 ![image](https://github.com/user-attachments/assets/e75d7ab4-8aed-4f1d-bdf3-5083e333dd1f)
 ![image](https://github.com/user-attachments/assets/4c2cef89-ea78-4df5-ba46-4a564869e9fa)
