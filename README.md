@@ -74,6 +74,7 @@ Luego se deben de pegar con silicón los 100 sensores infrarrojos a los separado
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
 Seguidamente, para probar las luces fue utilizada una mini versión del código "[nombre del código que contiene las animaciones en el arduino mega]" y "[nombre del cóigo usado para mostrar el texto]" (Paso opcional)
+
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
 
 Las conexiones de esta mini versión del display son las mismas utilizadas en el display final, el cual consiste en 
