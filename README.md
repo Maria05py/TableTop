@@ -10,18 +10,20 @@ El presente proyecto es un prototipo equipado con las funcionalidades básicas d
 Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Cenfotec. El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
 
 ## Carpetas brindadas
-"Códigos" :
-Los archivos del docker que va en el proceso de producción *sin los modelos
-El proceso de entrenamiento
-Autenticación de Google Drive
-"Documentación"
-La documentación necesaria para todos los procesos
-"Imagenes y Etiquetas
-Etiquetas necesarias para llevar a cabo el proceso de entrenamiento y evaluación
-Ejemplo de 5 imagenes
-"Modelos"
-Contiene un txt que indica donde se puede encontrar los modelos
-Resultados de Modelos
+**"Códigos":**
+- Los archivos del docker que va en el proceso de producción *sin los modelos*
+- El proceso de entrenamiento
+- Autenticación de Google Drive
+
+**"Documentación":**
+- La documentación necesaria para todos los procesos
+
+**"Imágenes y Etiquetas":**
+- Etiquetas necesarias para llevar a cabo el proceso de entrenamiento y evaluación
+- Ejemplo de 5 imágenes
+
+**"Modelos":**
+- Contiene un txt que indica donde se puede encontrar los modelos
 
 ## Índice de Contenido
 1. [Diseño 3D](#diseño-3d)
