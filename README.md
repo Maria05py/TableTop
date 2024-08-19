@@ -103,6 +103,7 @@ Antes de completar el proceso de montaje del display, se recomienda comprobar el
 
 
 ## Códigos, mapeados y librerías empleadas:
+## Resultados de la implementación:
 
 ## Usos y problemas detectados:
 
