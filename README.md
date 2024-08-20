@@ -1,6 +1,9 @@
 # TableTop
 Documentación del proyecto "TableTop" para el evento ExpoCenfo de la Universidad Cenfotec. Este proyecto propone la creación de un prototipo de mesa multifuncional que maximiza el uso de sistemas ciberfísicos, promoviendo el bienestar y acercando la tecnología a distintas generaciones.
 
+## Olimpiadas de Computación inteligente (ExpoCenfo)
+El presente proyecto forma parte de uno de los tantos equipos participantes de las Olimpiadas de Computación inteligente, la cual corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Cenfotec. El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
+
 ## ¿Qué es TableTop?
 Este proyecto se centra en una mesa con un display de luces LED, diseñada para ayudar a niños pequeños a mejorar su ansiedad, habilidades motoras y atención. La mesa utiliza sensores infrarrojos para encender, apagar y controlar las luces, lo que permite su uso en juegos de rapidez, concentración y diversas terapias. Además, se integra una aplicación móvil que permitirá cambiar las luces, seleccionar juegos y gestionar funciones básicas a través de tecnología RFID. A futuro también se contempla el uso de Alexa para comandos de voz, proporcionando instrucciones y funcionalidades accesibles para los más pequeños. Adicionalmente, se busca la posibilidad de actualizar juegos y características desde la nube, manteniendo la mesa al día con nuevas opciones. La mesa no es solo un espacio físico, sino un entorno terapéutico y de aprendizaje que utiliza tecnología avanzada para ofrecer experiencias cercanas al uso de la tecnología.
 El propósito principal de esta mesa inteligente es crear un entorno seguro y atractivo para que los niños de la casa puedan aprender y relajarse al mismo tiempo. Permitiendo a los niños interactuar con la tecnología en un ambiente controlado, esta mesa inteligente permitirá a los más pequeños de la casa practicar sus habilidades tecnológicas y mejorar su enfoque a través de juegos interactivos y estimulantes a través del uso de luces LEDs, todo esto sin exponerlo a los niños a las redes sociales y aplicaciones con contenido inapropiado y violencia, permitiéndoles estar educados, entretenidos y seguros en el mundo online. 
@@ -15,13 +18,19 @@ Los beneficios de este proyecto para los niños de la casa son:
 
 -**Aulas interactivas:** La mesa busca convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología. Para futuras aplicaciones nuestra mesa inteligente tiene el potencial de ser una herramienta poderosa no solo en el hogar, sino también en entornos educativos y terapéuticos.
 ****
-
 El presente proyecto es un prototipo equipado con las funcionalidades básicas de: Conectarse a su debida aplicación, mostrar patrones de movimiento en el display LED y reaccionar ante los estímulos de los sensores infrarojos. 
 
-## Olimpiadas de Computación inteligente (ExpoCenfo)
-Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Cenfotec. El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
+## Índice de Contenido
+1. [Organización del repositorio](#Organización-del-repositorio)
+2. [Diseño 3D](#diseño-3d)
+3. [Materiales no electrónicos](#materiales-no-electrónicos)
+4. [Materiales electrónicos](#materiales-electrónicos)
+5. [Pasos y creación ](#pasos-y-creación)
+6. [Códigos y librerías empleadas](#códigos-y-librerías-empleadas)
+7. [Usos y problemas detectados](#Usos-y-problemas-detectados)
+8. [Licencia](#licencia)
 
-## Carpetas:
+## Carpetas y organización del repositorio:
 **"Códigos":**
 - Los archivos tipo C++, header, librerías y .ino necesarios para la correcta ejecución de las diferentes funcionalidades de la mesa.
 - Módulos y librerías empleadas para la correcta ejecución del código principal.
@@ -39,15 +48,6 @@ Las Olimpiadas de Computación inteligente corresponden a una competencia costar
 
 **"Documentos":**
 - Presentación de los integrantes, detalles sobre el proyecto, implementación y resultados obtenidos.
-
-## Índice de Contenido
-1. [Diseño 3D](#diseño-3d)
-2. [Materiales no electrónicos](#materiales-no-electrónicos)
-3. [Materiales electrónicos](#materiales-electrónicos)
-4. [Pasos y creación ](#pasos-y-creación)
-5. [Códigos y librerías empleadas](#códigos-y-librerías-empleadas)
-6. [Usos y problemas detectados](#Usos-y-problemas-detectados)
-8. [Licencia](#licencia)
 
 ## Diseño 3D:
 El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 en el software "SketchUp". A continuación se muestran las dimensiones y el diseño general de la mesa, además de las piezas a cortar para el acabado final, en este caso melamina. 
@@ -125,6 +125,23 @@ Antes de completar el proceso de montaje del display, se recomienda comprobar el
 
 
 ## Códigos, mapeados y librerías empleadas:
+
+**"Librerías empleadas":**
+- *FastLED*: Es necesaria la utilización de la presente linrería 
+
+**"Mapeado de los lEDs":**
+
+ 9,  10,  29,  30,  49,  50,  69,  70,  89,  90,
+ 8,  11,  28,  31,  48,  51,  68,  71,  88,  91,
+ 7,  12,  27,  32,  47,  52,  67,  72,  87,  92,
+ 6,  13,  26,  33,  46,  53,  66,  73,  86,  93,
+ 5,  14,  25,  34,  45,  54,  65,  74,  85,  94,
+ 4,  15,  24,  35,  44,  55,  64,  75,  84,  95,
+ 3,  16,  23,  36,  43,  56,  63,  76,  83,  96,
+ 2,  17,  22,  37,  42,  57,  62,  77,  82,  97,
+ 1,  18,  21,  38,  41,  58,  61,  78,  81,  98,
+ 0,  19,  20,  39,  40,  59,  60,  79,  80,  99
+ 
 ## Resultados de la implementación:
 
 ## Usos y problemas detectados:
