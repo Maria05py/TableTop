@@ -85,7 +85,7 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
 ![image](https://github.com/user-attachments/assets/98d67322-14f6-40d8-8412-d35c240fbdb2)
 
-Enlistados en orden, con respecto a los componentes electónicos, primeramente se deben de calibrar los 100 sensores infrarrojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarrojos correspondientes, esto se logra ajustando el "Distance Adjustemn" (Mirar la imagen de referencia). Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente.  
+Enlistados en orden, con respecto a los componentes electónicos, primeramente se deben de calibrar los 100 sensores infrarrojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarrojos correspondientes, esto se logra ajustando el "Distance Adjust" (Mirar la imagen de referencia). Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente.  
 
 ![image](https://github.com/user-attachments/assets/2c02cb5e-a3f0-4da5-8d44-7647c383b616)
 
