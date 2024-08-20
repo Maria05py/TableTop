@@ -13,6 +13,7 @@ Los beneficios de este proyecto para los niños de la casa son:
 -Relajación por medio de estimnulación sensorial controlada: La luz suave y los patrones de color cambiantes crean un ambiente sensorial que promueve la calma y la concentración.
 
 Para futuras aplicaciones nuestra mesa inteligente tiene el potencial de ser una herramienta poderosa no solo en el hogar, sino también en entornos educativos y terapéuticos:
+
 -Aulas interactivas: La mesa podría convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología.
 
 -Terapia para niños con necesidades especiales: La mesa también puede tener aplicaciones terapéuticas, especialmente para niños con necesidades especiales. Por ejemplo, los patrones de luz y los juegos de concentración pueden ayudar a niños con autismo o TDAH a mejorar su enfoque y reducir la ansiedad.
