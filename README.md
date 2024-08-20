@@ -6,16 +6,15 @@ Este proyecto se centra en una mesa con un display de luces LED, diseñada para 
 El propósito principal de esta mesa inteligente es crear un entorno seguro y atractivo para que los niños de la casa puedan aprender y relajarse al mismo tiempo. Permitiendo a los niños interactuar con la tecnología en un ambiente controlado, esta mesa inteligente permitirá a los más pequeños de la casa practicar sus habilidades tecnológicas y mejorar su enfoque a través de juegos interactivos y estimulantes a través del uso de luces LEDs, todo esto sin exponerlo a los niños a las redes sociales y aplicaciones con contenido inapropiado y violencia, permitiéndoles estar educados, entretenidos y seguros en el mundo online. 
 Los beneficios de este proyecto para los niños de la casa son:
 
--**"Desarrollo de habilidades cognitivas y motoras":** Esta mesa incorpora la diversión y el aprendizaje por medio de juegos que requieren concentración y resolución de problemas, como Tetris o patrones de luz, lo que les ayuda a desarrollar habilidades cognitivas como la memoria, la lógica, la concentración y el pensamiento crítico.
+-**Desarrollo de habilidades cognitivas y motoras:** Esta mesa incorpora la diversión y el aprendizaje por medio de juegos que requieren concentración y resolución de problemas, como Tetris o patrones de luz, lo que les ayuda a desarrollar habilidades cognitivas como la memoria, la lógica, la concentración y el pensamiento crítico.
 
--**"Habilidades Tecnológicas":** Ayuda a los niños a familiarizarse con la tecnología en un entorno seguro mientras les ayuda a desarrollar habilidades tecnológicas tempranas, lo que es crucial en el mundo actual.
+-**Habilidades Tecnológicas:** Ayuda a los niños a familiarizarse con la tecnología en un entorno seguro mientras les ayuda a desarrollar habilidades tecnológicas tempranas, lo que es crucial en el mundo actual.
 
 -**"Relajación por medio de estimnulación sensorial controlada":** 
 -Relajación por medio de estimnulación sensorial controlada: La luz suave y los patrones de color cambiantes crean un ambiente sensorial que promueve la calma y la concentración.
 
-Para futuras aplicaciones nuestra mesa inteligente tiene el potencial de ser una herramienta poderosa no solo en el hogar, sino también en entornos educativos y terapéuticos:
-
--**"Aulas interactivas":** La mesa busca convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología.
+-**Aulas interactivas:** La mesa busca convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología. Para futuras aplicaciones nuestra mesa inteligente tiene el potencial de ser una herramienta poderosa no solo en el hogar, sino también en entornos educativos y terapéuticos.
+****
 
 El presente proyecto es un prototipo equipado con las funcionalidades básicas de: Conectarse a su debida aplicación, mostrar patrones de movimiento en el display LED y reaccionar ante los estímulos de los sensores infrarojos. 
 
