@@ -6,31 +6,40 @@ Este proyecto se centra en una mesa con un display de luces LED, diseñada para 
 El propósito principal de esta mesa inteligente es crear un entorno seguro y atractivo para que los niños de la casa puedan aprender y relajarse al mismo tiempo. Permitiendo a los niños interactuar con la tecnología en un ambiente controlado, esta mesa inteligente permitirá a los más pequeños de la casa practicar sus habilidades tecnológicas y mejorar su enfoque a través de juegos interactivos y estimulantes a través del uso de luces LEDs, todo esto sin exponerlo a los niños a las redes sociales y aplicaciones con contenido inapropiado y violencia, permitiéndoles estar educados, entretenidos y seguros en el mundo online. 
 Los beneficios de este proyecto para los niños de la casa son:
 
--Desarrollo de habilidades cognitivas y motoras:Esta mesa incorpora la diversión y el aprendizaje por medio de juegos que requieren concentración y resolución de problemas, como Tetris o patrones de luz, lo que les ayuda a desarrollar habilidades cognitivas como la memoria, la lógica, la concentración y el pensamiento crítico.
+-**"Desarrollo de habilidades cognitivas y motoras":** Esta mesa incorpora la diversión y el aprendizaje por medio de juegos que requieren concentración y resolución de problemas, como Tetris o patrones de luz, lo que les ayuda a desarrollar habilidades cognitivas como la memoria, la lógica, la concentración y el pensamiento crítico.
 
--Habilidades Tecnológicas: Ayuda a los niños a familiarizarse con la tecnología en un entorno seguro mientras les ayuda a desarrollar habilidades tecnológicas tempranas, lo que es crucial en el mundo actual.
+-**"Habilidades Tecnológicas":** Ayuda a los niños a familiarizarse con la tecnología en un entorno seguro mientras les ayuda a desarrollar habilidades tecnológicas tempranas, lo que es crucial en el mundo actual.
 
+-**"Relajación por medio de estimnulación sensorial controlada":** 
 -Relajación por medio de estimnulación sensorial controlada: La luz suave y los patrones de color cambiantes crean un ambiente sensorial que promueve la calma y la concentración.
 
 Para futuras aplicaciones nuestra mesa inteligente tiene el potencial de ser una herramienta poderosa no solo en el hogar, sino también en entornos educativos y terapéuticos:
 
--Aulas interactivas: La mesa podría convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología.
-
--Terapia para niños con necesidades especiales: La mesa también puede tener aplicaciones terapéuticas, especialmente para niños con necesidades especiales. Por ejemplo, los patrones de luz y los juegos de concentración pueden ayudar a niños con autismo o TDAH a mejorar su enfoque y reducir la ansiedad.
+-**"Aulas interactivas":** La mesa busca convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología.
 
 El presente proyecto es un prototipo equipado con las funcionalidades básicas de: Conectarse a su debida aplicación, mostrar patrones de movimiento en el display LED y reaccionar ante los estímulos de los sensores infrarojos. 
 
 ## Olimpiadas de Computación inteligente (ExpoCenfo)
 Las Olimpiadas de Computación inteligente corresponden a una competencia costarricense con sede en la Universidad Cenfotec, abierta a todos los estudiantes universitarios entusiastas de la tecnología que deseen aceptar el reto y competir en la mejor creación de un sistema ciberfísico. Dicho evento tiene lugar el día miércoles 21 de agosto con cede en la Universidad Cenfotec. El sitio oficial del evento, incluyendo las normativas y demás especificaciones, se encuentran en el siguiente enlace: [link](https://ucenfotec.ac.cr/expocenfo/).
 
-## Carpetas brindadas:
+## Carpetas:
 **"Códigos":**
-- Los archivos tipo C++ y .ino necesarios para la correcta ejecución de las diferentes funcionalidades de la mesa.
+- Los archivos tipo C++, header, librerías y .ino necesarios para la correcta ejecución de las diferentes funcionalidades de la mesa.
 - Módulos y librerías empleadas para la correcta ejecución del código principal.
 
 **"Modelos3D":**
 - Archivos correspondentes a las piezas a cortar por medio de la cortadora láser (Piezas_Superiores.skp)
 - Archivos correspondientes al modelo 3D de la mesa completa (Base_mesa_en_melamina.skp)  
+
+**"Licencia":**
+- Licencia del presente proyecto y detalles sobre las restricciones correspondientes. 
+
+**"Modelos3D":**
+- Archivos correspondentes a las piezas a cortar por medio de la cortadora láser (Piezas_Superiores.skp)
+- Archivos correspondientes al modelo 3D de la mesa completa (Base_mesa_en_melamina.skp)  
+
+**"Documentos":**
+- Presentación de los integrantes, detalles sobre el proyecto, implementación y resultados obtenidos.
 
 ## Índice de Contenido
 1. [Diseño 3D](#diseño-3d)
@@ -129,7 +138,9 @@ Antes de completar el proceso de montaje del display, se recomienda comprobar el
 - Melina Valeska Soto Badilla
   
 ## Licencia:
-Este proyecto está licenciado bajo los términos de la Licencia Creative Commons.
+Este proyecto está licenciado bajo los términos de la Licencia Creative Commons. 
 
 ![image](https://github.com/user-attachments/assets/681f2a88-7127-487d-ab5a-e2d6f7267443)
+
+TableTop © 2024 by TableTop is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
