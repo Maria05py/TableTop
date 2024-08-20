@@ -96,8 +96,8 @@ Enlistados en orden, con respecto a los componentes electónicos, primeramente s
 Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
 
 ![Imagen de WhatsApp 2024-08-20 a las 17 44 42_55fda35c](https://github.com/user-attachments/assets/5f4c7657-ddb4-4b23-b351-3f3ff5901109)
+(Imagen de referencia: Colores y l+ogica detrás de las conexiones entre los respectivos leds. Nota: Cables de 5cm de longitud.)
 
-(Imagen de referencia con los colores y orden de conexiones entre los respectivos leds. Nota: Cables de 5cm de longitud.)
 ![image](https://github.com/user-attachments/assets/e75d7ab4-8aed-4f1d-bdf3-5083e333dd1f)
 ![image](https://github.com/user-attachments/assets/deed618c-77c6-4638-b285-7de243821142)
 ![image](https://github.com/user-attachments/assets/4c2cef89-ea78-4df5-ba46-4a564869e9fa)
