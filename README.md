@@ -78,7 +78,7 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 - Cables (Preferiblemente de gran cantidad de colores en pro de mejorar la simplicidad de los pasos). 
   
 ## Pasos y creación:
-Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad: Unión de cada parte de la melamina (base de la mesa), uniones entre los separadores de la matriz (correspondientes a las "dentaduras"),etc...). 
+Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad: Unión de cada parte de la melamina (base de la mesa), uniones entre los separadores de la matriz (correspondientes a las "dentaduras"), etc... 
 
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
