@@ -75,7 +75,7 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 - Etiqueta universal ultraligera de 25mm.
 - Cable de cobre de distintos grosores.
 - Estaño.
-- Cables. 
+- Cables (Preferiblemente de gran cantidad de colores en pro de mejorar la simplicidad de los pasos). 
   
 ## Pasos y creación:
 Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la mesa en su totalidad (Unión de cada parte de la melamina, uniónes entre los separadores de la matriz). 
