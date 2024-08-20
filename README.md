@@ -3,6 +3,16 @@ Documentación del proyecto "TableTop" para el evento ExpoCenfo de la Universida
 
 ## ¿Qué es TableTop?
 Este proyecto se centra en una mesa con un display de luces LED, diseñada para ayudar a niños pequeños a mejorar su ansiedad, habilidades motoras y atención. La mesa utiliza sensores infrarrojos para encender, apagar y controlar las luces, lo que permite su uso en juegos de rapidez, concentración y diversas terapias. Además, se integra una aplicación móvil que permitirá cambiar las luces, seleccionar juegos y gestionar funciones básicas a través de tecnología RFID. A futuro también se contempla el uso de Alexa para comandos de voz, proporcionando instrucciones y funcionalidades accesibles para los más pequeños. Adicionalmente, se busca la posibilidad de actualizar juegos y características desde la nube, manteniendo la mesa al día con nuevas opciones. La mesa no es solo un espacio físico, sino un entorno terapéutico y de aprendizaje que utiliza tecnología avanzada para ofrecer experiencias cercanas al uso de la tecnología.
+El propósito principal de esta mesa inteligente es crear un entorno seguro y atractivo para que los niños de la casa puedan aprender y relajarse al mismo tiempo. Permitiendo a los niños interactuar con la tecnología en un ambiente controlado, esta mesa inteligente permitirá a los más pequeños de la casa practicar sus habilidades tecnológicas y mejorar su enfoque a través de juegos interactivos y estimulantes a través del uso de luces LEDs, todo esto sin exponerlo a los niños a las redes sociales y aplicaciones con contenido inapropiado y violencia, permitiéndoles estar educados, entretenidos y seguros en el mundo online. 
+Los beneficios de este proyecto para los niños de la casa son:
+
+-Desarrollo de habilidades cognitivas y motoras:Esta mesa incorpora la diversión y el aprendizaje por medio de juegos que requieren concentración y resolución de problemas, como Tetris o patrones de luz, lo que les ayuda a desarrollar habilidades cognitivas como la memoria, la lógica, la concentración y el pensamiento crítico.
+-Habilidades Tecnológicas: Ayuda a los niños a familiarizarse con la tecnología en un entorno seguro mientras les ayuda a desarrollar habilidades tecnológicas tempranas, lo que es crucial en el mundo actual.
+-Relajación por medio de estimnulación sensorial controlada: La luz suave y los patrones de color cambiantes crean un ambiente sensorial que promueve la calma y la concentración.
+
+Para futuras aplicaciones nuestra mesa inteligente tiene el potencial de ser una herramienta poderosa no solo en el hogar, sino también en entornos educativos y terapéuticos:
+-Aulas interactivas: La mesa podría convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología.
+-Terapia para niños con necesidades especiales: La mesa también puede tener aplicaciones terapéuticas, especialmente para niños con necesidades especiales. Por ejemplo, los patrones de luz y los juegos de concentración pueden ayudar a niños con autismo o TDAH a mejorar su enfoque y reducir la ansiedad.
 
 El presente proyecto es un prototipo equipado con las funcionalidades básicas de: Conectarse a su debida aplicación, mostrar patrones de movimiento en el display LED y reaccionar ante los estímulos de los sensores infrarojos. 
 
@@ -63,10 +73,10 @@ Una vez creado el diseño, cortadas y listas las piezas, se procede a armar la m
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
 ![image](https://github.com/user-attachments/assets/98d67322-14f6-40d8-8412-d35c240fbdb2)
 
-Elistados en orden, primeramente se deben de calibrar los 100 sensores infrarojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarojos correspondientes. Seguidamente, se procede a cortar cable 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines LED (5V, GRN y DO) respectivamente. 
+Enlistados en orden, primeramente se deben de calibrar los 100 sensores infrarrojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarrojos correspondientes. Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines LED (5V, GRN y DO) respectivamente.  
 
 ![image](https://github.com/user-attachments/assets/be3ef577-d0fc-41c9-b9e3-aff1f6c9b0c3)
-(Corte de los cables y uso de la protoboard para la calibrar los 100 sensores infrarojos a utilizar)
+(Corte de los cables y uso de la protoboard para calibrar los 100 sensores infrarojos a utilizar)
 
 Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
 
@@ -75,7 +85,7 @@ Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada fin
 ![image](https://github.com/user-attachments/assets/4c2cef89-ea78-4df5-ba46-4a564869e9fa)
 ![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 
-Luego se deben de pegar con silicón los 100 sensores infrarrojos a los separadores de la matriz con silicón caliente. Seguidamente se soldan los pines GND, 5+ y output entre sí como es posible observar en las siguientes fotografías.
+Luego se deben de pegar con silicón los 100 sensores infrarrojos a los separadores de la matriz con silicón caliente. Seguidamente se sueldan los pines GND, 5+ y output entre sí como es posible observar en las siguientes fotografías.
 
 ![image](https://github.com/user-attachments/assets/985cd7f6-e2ed-48e9-9cc3-8d96c03b7654)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_f2a4d858](https://github.com/user-attachments/assets/b5e2ec93-259d-41d5-8a67-c49765612f34)
