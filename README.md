@@ -79,7 +79,7 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 - Cables (Preferiblemente de gran cantidad de colores en pro de mejorar la simplicidad de los pasos). 
   
 ## Pasos y creación:
-Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad: Unión de cada parte de la melamina (base de la mesa), uniones entre los separadores de la matriz (correspondientes a las "dentaduras") etc... 
+Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad: Unión de cada parte de la melamina (base de la mesa), uniones entre los separadores de la matriz (correspondientes a las "dentaduras"), etc... 
 
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
@@ -162,12 +162,23 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 
 **"Librerías empleadas":**
 
-- *FastLED*: Es necesaria la utilización de la presente librería para crear códigos eficientes, sencillos y optimizados que controlen diferentes modelos de tiras LED, como la WS2811, utilizada por nuestro grupo de trabajo. Esta librería permite trabajar con siglas de composición de los colores primarios (RGB por defecto) y alterarlos, ajustar la intensidad de los LEDs, emplear funciones rápidas y eficientes, superiores a las por defecto de Arduino. Creada por Daniel Garcia. 
-- *FastLED*:
-- *FastLED*:
-- *FastLED*:
-- *FastLED*:
-- *FastLED*:
+- *FastLED*: Es necesaria la utilización de la presente librería para crear códigos eficientes, sencillos y optimizados que controlen diferentes modelos de tiras LED, como la WS2811, utilizada por nuestro grupo de trabajo. Esta librería permite trabajar con siglas de composición de los colores primarios (RGB por defecto) y alterarlos, ajustar la intensidad de los LEDs, emplear funciones rápidas y eficientes, superiores a las por defecto de Arduino. Creada por Daniel Garcia.
+  
+- *MFRC522*: Bilbioteca para la comunciación mediante RFID, haciendo posible la lectura y escritura de etiquetas RFID.
+   
+- *FastLED_NeoMatrix*: Extensión de FastLED, encargada de controlar la matriz de luces de manera más intuitiva.
+  
+- *Adafruit_GFX*: Biblioteca gráfica para el uso de LEDs en general. Funciona correctamente al utilizarla en conjunto con las bibliotecas anteriormente mencionadas.
+  
+- *BluetoothSerial*: Biblioteca encargada de permitir la comunicación Bluetooth mediante el ESP32. En este caso es utilizada para conectar el APK "TableTop".
+  
+- *LEDMatrix*: Biblioteca encargada de apoyar la lógica de la matriz y permitir el manejo de coordenadas de manera más sencilla.
+  
+- *LEDSprites*: Biblioteca encargada de permitir la manipulación de gráficos dentro de una matriz (Créditos a AaronLiddiment).
+  
+- *LEDText*: Biblioteca encargada de poder mostrar texto en la matriz lED (Créditos a AaronLiddiment).
+  
+- *FontMatrise*: Biblioteca encargada de ajustar la resolución y tipografía del texto mostrado dentro del tetris. 
 
 **"Mapeado de los lEDs":**
 
@@ -184,7 +195,12 @@ La lógica (x,y) de la matriz LED de 10x10 es la siguiente:
 	1,  18,  21,  38,  41,  58,  61,  78,  81,  98,
 	0,  19,  20,  39,  40,  59,  60,  79,  80,  99
 
+En casos en los que es necesario dibujar directamente sobre la matriz, es necesario conocer esta lógica. Además, en caso de mapear cada uno de los sensores, es indispensable conocer esta información. 
+
 ## Usos y problemas detectados:
+
+- Se detecta alto nivel de consumo por parte del conjunto de LEDs e infrarojos. Si bien es posible ejecutar el código .ino y aprovechar todas las funcionalidades, no es posible hacer que el uso de baterías alimente correcta y prolongadamente el proyecto. Estos detalles quedan a revisión.
+- Existen algunos conflictos con la lectura de la tarjeta RFID en algunos casos, sin embargo, se trata de un tema relacionado al código y al timing de lecturas.
 
 ## Participantes:
 - Braulio Garro Marín
