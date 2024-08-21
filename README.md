@@ -85,7 +85,7 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
 ![image](https://github.com/user-attachments/assets/98d67322-14f6-40d8-8412-d35c240fbdb2)
 
-Enlistados en orden, con respecto a los componentes electónicos, primeramente se deben de calibrar los 100 sensores infrarrojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarrojos correspondientes, esto se logra ajustando el "Distance Adjust" (Mirar la imagen de referencia). Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente. Es importante conectar 10 tiras de 10 LEDs, cuidando la orientación de las flechas, ya que todas deben apuntar hacia un mismo sentido. 
+1) Enlistados en orden, con respecto a los componentes electónicos, primeramente se deben de calibrar los 100 sensores infrarrojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarrojos correspondientes, esto se logra ajustando el "Distance Adjust" (Mirar la imagen de referencia). 2) Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente. Es importante conectar 10 tiras de 10 LEDs, cuidando la orientación de las flechas, ya que todas deben apuntar hacia un mismo sentido. 
 
 ![image](https://github.com/user-attachments/assets/2c02cb5e-a3f0-4da5-8d44-7647c383b616)
 
@@ -93,7 +93,7 @@ Enlistados en orden, con respecto a los componentes electónicos, primeramente s
 ![image](https://github.com/user-attachments/assets/be3ef577-d0fc-41c9-b9e3-aff1f6c9b0c3)
 (Corte de los cables y uso de la protoboard para calibrar los 100 sensores infrarojos a utilizar. Se recomienda el uso de la protoboard para probar al menos 5-6 seonsores infrarojos a la vez en pro de agilizar el proceso de creación).
 
-Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
+3) Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
 
 ![image](https://github.com/user-attachments/assets/403b6e23-aa44-4d95-8ec2-5d2b749a38d8)
 (Imagen de los pinouts para mejor referencia)
