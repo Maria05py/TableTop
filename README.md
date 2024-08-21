@@ -115,6 +115,8 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_f2a4d858](https://github.com/user-attachments/assets/b5e2ec93-259d-41d5-8a67-c49765612f34)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_85e9ffc6](https://github.com/user-attachments/assets/6ed487dd-6677-4b03-8f43-cdc099f4fda1)
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
+![image](https://github.com/user-attachments/assets/366fd1cb-1ea5-4644-9ee3-583bd130213c)
+(Una vez aplicada la corriente respectiva, y al haber calibrado correctamente cada uno de los infrarojos, debe activarse al acercar la mano, incluso tras utilizar el acrílico)
 
 5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino" editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional). La lógica detrás de la conexiones se puede observar en las conexiones mostradas en la siguiente imagen:
 
@@ -131,6 +133,19 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ![Imagen de WhatsApp 2024-08-18 a las 12 11 58_bb98c2f2](https://github.com/user-attachments/assets/76872487-675b-47b6-8a41-62a9dde6f59c)
 ![Imagen de WhatsApp 2024-08-18 a las 16 06 51_b8d5f709](https://github.com/user-attachments/assets/0f7f23f8-8b5f-4d6c-851e-5407ff1b81b6)
 (Proceso de creación de las animaciones de inicio de la aplicación)
+
+7) Una vez se posean los LEDs debidamente pegados, se debe colocar por encima la matriz de MDF, de modo en la que es posible visualizar tanto la matriz de LEDs como el mapeado de infrarojos correspondiente. 
+
+8) Es necesaria efectuar la conexión de los sensores infrarojos para el mapeado LED-Infrarojo, para esto, una vez conectados los dos pines anteriormente mencionados (GND y 5+) entre las distintas filas de infrarojos (paso número 4), es hora de soldar un cable de larga longitud a cada uno de los pines faltantes, el pin "out", de forma en la que posea un cable soldado de una única punta. El cable soldado va a sobresalir en forma de arco como en la siguiente fotografía, por ende, debe estar soldado solamente en el pin. 
+![image](https://github.com/user-attachments/assets/2004085a-9eed-43c8-88ea-ba188501da92)
+
+8) Seguidamente, es necesario abrir un agujero al lado izquierdo de cada infrarojo, justo en la base donde se pegaron previamente los LEDs.
+![Imagen de WhatsApp 2024-08-20 a las 20 53 51_df8963d6](https://github.com/user-attachments/assets/b159d37d-133d-45f6-91c0-7b739bd16293)
+
+10) Aprovechando los agujeros abiertos, se debe de "pasar" el cable del pin out, de modo que el mismo se "oculte" y sea pasado por debajo la base, la cual contiene los LEDs.
+![Imagen de WhatsApp 2024-08-20 a las 20 53 50_c17e81a9](https://github.com/user-attachments/assets/d0b50fa0-142a-49e3-bfa5-718328b4dfa5)
+
+12) 
 
 
 ## Códigos, mapeados y librerías empleadas:
