@@ -114,7 +114,7 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_85e9ffc6](https://github.com/user-attachments/assets/6ed487dd-6677-4b03-8f43-cdc099f4fda1)
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
-5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino, editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional)
+5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino" editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional)
 
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
 
