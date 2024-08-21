@@ -1,0 +1,15 @@
+-Tetris
+La lógica y código original del juego "Tetris" fue tomada parte de Scott Marley (S-Marley en Github) por el equipo de TableTop bajo la licencia Creative Commons. Enlace al contenido original: https://github.com/s-marley/ESP32Tetris
+Modificado por TableTop en 2024.
+Descripción de las modificaciones: Fue estraida la lógica del juego Tetris, así como detalles sobre su conexión mediante Bluetooth. Además, se implementó parte del código detrás de la APK. Enlcace al contenido original: 
+
+-Animaciones 
+Parte de la lógica y código original de las diferentesa animaciones fue tomada parte de Matthew Kaye (N00d13 en Github) por el equipo de TableTop bajo la licencia Creative Commons. Enlace al contenido original: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS
+Modificado por TableTop en 2024.
+Descripción de las modificaciones: Fue estraida la lógica y parte de las librerías empleadas por N00d13.
+
+-Software de Dibujo:
+Fue aprovechado el software libre "LEDMatrixControl" de Tyler Jones por el equipo de TableTop bajo la licencia Creative Commons. Enlace al contenido original: https://drive.google.com/file/d/0B3WGFfMxBANHVlJZTXRDb1RDTVE/view?resourcekey=0-mOXN1-6aJwyxiN3NJRbXNA 
+Modificado por TableTop en 2024.
+Descripción del uso del software: Fue utilizado dicho software para la creación de las animaciones correspondientes al uso de la APK TableTop.
+
