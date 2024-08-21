@@ -138,13 +138,19 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 8) Es necesaria efectuar la conexión de los sensores infrarojos para el mapeado LED-Infrarojo, para esto, una vez conectados los dos pines anteriormente mencionados (GND y 5+) entre las distintas filas de infrarojos (paso número 4), es hora de soldar un cable de larga longitud a cada uno de los pines faltantes, el pin "out", de forma en la que posea un cable soldado de una única punta. El cable soldado va a sobresalir en forma de arco como en la siguiente fotografía, por ende, debe estar soldado solamente en el pin. 
 ![image](https://github.com/user-attachments/assets/2004085a-9eed-43c8-88ea-ba188501da92)
 
-8) Seguidamente, es necesario abrir un agujero al lado izquierdo de cada infrarojo, justo en la base donde se pegaron previamente los LEDs.
+9) Seguidamente, es necesario abrir un agujero al lado izquierdo de cada infrarojo, justo en la base donde se pegaron previamente los LEDs.
+    
 ![Imagen de WhatsApp 2024-08-20 a las 20 53 51_df8963d6](https://github.com/user-attachments/assets/b159d37d-133d-45f6-91c0-7b739bd16293)
 
 10) Aprovechando los agujeros abiertos, se debe de "pasar" el cable del pin out, de modo que el mismo se "oculte" y sea pasado por debajo la base, la cual contiene los LEDs.
+    
 ![Imagen de WhatsApp 2024-08-20 a las 20 53 50_c17e81a9](https://github.com/user-attachments/assets/d0b50fa0-142a-49e3-bfa5-718328b4dfa5)
+![Imagen de WhatsApp 2024-08-20 a las 20 53 50_81a2a1f4](https://github.com/user-attachments/assets/8fb5036a-7b33-47d8-9f33-92ecd4fff6ba)
 
-12) 
+11) Seguidamente, se utilizan 7 multiplexors, de forma en la que se mapea cada infrarojo de 16 en 16, a modo de "mapear" e identificar cada uno de los LEDs según su ubicación y estado. Las siguientes imágenes ejemplifican la forma en la que se llevó a cabo este proceso de soldadura.
+
+![Imagen de WhatsApp 2024-08-20 a las 20 53 50_079f733d](https://github.com/user-attachments/assets/39f79366-48f2-4db8-9a11-fb9195bdddbe)
+
 
 
 ## Códigos, mapeados y librerías empleadas:
