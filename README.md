@@ -119,7 +119,7 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
 
-6) Una vez probada la efcacia de la matriz LED, para crear el display final se colocan las respectivas tiras de LEDs previamente preparadas (en este caso, las tiras alteradas con su debida separación de 5cm) de forma en la cual cada led quede centrado con respecto a su respectiva. Las conexiones entre cada una de las tiras se encuentran debajo de la tabla correspondiente. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+6) Una vez probada la eficacia de la matriz LED, para crear el display final se colocan las respectivas tiras de LEDs previamente preparadas (en este caso, las tiras alteradas con su debida separación de 5cm) de forma en la cual cada led quede centrado con respecto a su respectiva. Las conexiones entre cada una de las tiras se encuentran escondidas debajo de la base, sin embargo, son las mismas mostradas en la mini matriz de prueba. 
    
 ![Imagen de WhatsApp 2024-08-16 a las 23 11 40_c0f88f87](https://github.com/user-attachments/assets/a1d1e9e4-0f1c-4222-875c-df0e3e4b3c2d)
 ![Imagen de WhatsApp 2024-08-16 a las 23 14 34_636a6f1e](https://github.com/user-attachments/assets/58da91ab-2b2f-4863-8540-1ec982f6ca87)
