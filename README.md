@@ -42,10 +42,9 @@ El presente proyecto es un prototipo equipado con las funcionalidades básicas d
 **"Licencia":**
 - Licencia del presente proyecto y detalles sobre las restricciones correspondientes. 
 
-**"Modelos3D":**
-- Archivos correspondentes a las piezas a cortar por medio de la cortadora láser (Piezas_Superiores.skp)
-- Archivos correspondientes al modelo 3D de la mesa completa (Base_mesa_en_melamina.skp)  
-
+**"APKs":**
+- Archivo apk correspondiente a la debida aplicación de Table Top.
+  
 **"Documentos":**
 - Presentación de los integrantes, detalles sobre el proyecto, implementación y resultados obtenidos.
 
