@@ -60,8 +60,10 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 ![Imagen de WhatsApp 2024-08-16 a las 15 52 16_07ad1a83](https://github.com/user-attachments/assets/c0473fe2-94e7-4e53-8424-f0b0f1d7c29e)
 
 ## Materiales no electrónicos:
-- Melamina (2500mm x 1830mm)
-- MDF (122cm x 244cm)
+- Melamina (2500mm x 1830mm).
+- MDF (122cm x 244cm).
+- Lámina de acrílico de 7mm de grosor (66.4cm x 66.4cm).
+- Polarizado translúcido (1m x 1m)
   
 ## Materiales electrónicos:
 - Placa de desarrollo ESP32.
@@ -107,14 +109,14 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 
 ![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 
-4) Luego, una vez preparados los LEDS, se deben de pegar con silicón los 100 sensores infrarrojos a los separadores de la matriz con silicón caliente. Seguidamente se sueldan los pines GND, 5+ y output entre sí como es posible observar en las siguientes fotografías.
+4) Luego, una vez preparados los LEDS, se deben de pegar con silicón caliente los 100 sensores infrarrojos a los separadores de la matriz. Seguidamente se sueldan los pines GND y 5+ entre sí (conectando cada pin con el del siguiente sensor, bajo la lógica GND -> GND del siguiente sensor, por ejemplo) como es posible observar en las siguientes fotografías.
 
 ![image](https://github.com/user-attachments/assets/985cd7f6-e2ed-48e9-9cc3-8d96c03b7654)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_f2a4d858](https://github.com/user-attachments/assets/b5e2ec93-259d-41d5-8a67-c49765612f34)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_85e9ffc6](https://github.com/user-attachments/assets/6ed487dd-6677-4b03-8f43-cdc099f4fda1)
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
-5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino" editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional). La lógica detrás de la conexiones data de: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino" editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional). La lógica detrás de la conexiones se puede observar en las conexiones mostradas en la siguiente imagen:
 
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
@@ -128,14 +130,17 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ![Imagen de WhatsApp 2024-08-17 a las 18 15 02_96942961](https://github.com/user-attachments/assets/0e985deb-0709-499b-86c6-a509c6283b00)
 ![Imagen de WhatsApp 2024-08-18 a las 12 11 58_bb98c2f2](https://github.com/user-attachments/assets/76872487-675b-47b6-8a41-62a9dde6f59c)
 ![Imagen de WhatsApp 2024-08-18 a las 16 06 51_b8d5f709](https://github.com/user-attachments/assets/0f7f23f8-8b5f-4d6c-851e-5407ff1b81b6)
+(Proceso de creación de las animaciones de inicio de la aplicación)
 
 
 ## Códigos, mapeados y librerías empleadas:
 
 **"Librerías empleadas":**
-- *FastLED*: Es necesaria la utilización de la presente linrería 
+- *FastLED*: Es necesaria la utilización de la presente librería para crear códigos eficientes, sencillos y optimizados que controlen diferentes modelos de tiras LED, como la WS2811, utilizada por nuestro grupo de trabajo. 
 
 **"Mapeado de los lEDs":**
+
+La lógica (x,y) de la matriz LED de 10x10 es la siguiente:
 
  9,  10,  29,  30,  49,  50,  69,  70,  89,  90,
  8,  11,  28,  31,  48,  51,  68,  71,  88,  91,
@@ -151,7 +156,6 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ## Resultados de la implementación:
 
 ## Usos y problemas detectados:
-
 
 ## Participantes:
 - Braulio Garro Marín
