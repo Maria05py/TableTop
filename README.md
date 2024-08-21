@@ -114,15 +114,12 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_85e9ffc6](https://github.com/user-attachments/assets/6ed487dd-6677-4b03-8f43-cdc099f4fda1)
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
-5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino" editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional)
+5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino" editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional). La lógica detrás de la conexiones data de: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
-
-Las conexiones de esta mini versión del display son las mismas utilizadas en el display final, el cual consiste en 
-
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
 
-6) Una vez probada la efcacia de la matriz LED, para crear el display final se colocan las respectivas tiras de LEDs previamente preparadas (en este caso, las tiras alteradas con su debida separación de 5cm) de forma en la cual cada led quede centrado con respecto a su respectiva. Las conexiones entre cada una de las tiras se encuentran debajo de la tabla correspondiente.
+6) Una vez probada la efcacia de la matriz LED, para crear el display final se colocan las respectivas tiras de LEDs previamente preparadas (en este caso, las tiras alteradas con su debida separación de 5cm) de forma en la cual cada led quede centrado con respecto a su respectiva. Las conexiones entre cada una de las tiras se encuentran debajo de la tabla correspondiente. XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
    
 ![Imagen de WhatsApp 2024-08-16 a las 23 11 40_c0f88f87](https://github.com/user-attachments/assets/a1d1e9e4-0f1c-4222-875c-df0e3e4b3c2d)
 ![Imagen de WhatsApp 2024-08-16 a las 23 14 34_636a6f1e](https://github.com/user-attachments/assets/58da91ab-2b2f-4863-8540-1ec982f6ca87)
