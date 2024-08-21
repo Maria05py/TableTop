@@ -183,8 +183,6 @@ La lógica (x,y) de la matriz LED de 10x10 es la siguiente:
 	2,  17,  22,  37,  42,  57,  62,  77,  82,  97,
 	1,  18,  21,  38,  41,  58,  61,  78,  81,  98,
 	0,  19,  20,  39,  40,  59,  60,  79,  80,  99
- 
-## Resultados de la implementación:
 
 ## Usos y problemas detectados:
 
