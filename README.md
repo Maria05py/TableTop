@@ -48,6 +48,9 @@ El presente proyecto es un prototipo equipado con las funcionalidades básicas d
 **"Documentos":**
 - Presentación de los integrantes, detalles sobre el proyecto, implementación y resultados obtenidos.
 
+**"Créditos y atribuciones":**
+- Créditos sobre el contenido modifivado y utilizado dentro del código, además de los enlaces correspondientes al contenido original.
+
 ## Diseño 3D:
 El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 en el software "SketchUp". A continuación se muestran las dimensiones y el diseño general de la mesa, además de las piezas a cortar para el acabado final, en este caso melamina. 
 
