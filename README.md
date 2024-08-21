@@ -151,8 +151,14 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 
 ![Imagen de WhatsApp 2024-08-20 a las 20 53 50_079f733d](https://github.com/user-attachments/assets/39f79366-48f2-4db8-9a11-fb9195bdddbe)
 
+11) Se coloca el polarizado translúcido encima del acrílico.
 
+![polarizado](https://github.com/user-attachments/assets/842be6c3-b35c-4fca-8027-9f101cb6b56e)
 
+13) Se deben cargar los respectivos códigos.
+
+![image](https://github.com/user-attachments/assets/0c4d0e71-3c1f-4190-bacc-26c90d93e3d4)
+    
 ## Códigos, mapeados y librerías empleadas:
 
 **"Librerías empleadas":**
