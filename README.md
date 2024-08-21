@@ -136,7 +136,13 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 ## Códigos, mapeados y librerías empleadas:
 
 **"Librerías empleadas":**
-- *FastLED*: Es necesaria la utilización de la presente librería para crear códigos eficientes, sencillos y optimizados que controlen diferentes modelos de tiras LED, como la WS2811, utilizada por nuestro grupo de trabajo. 
+
+- *FastLED*: Es necesaria la utilización de la presente librería para crear códigos eficientes, sencillos y optimizados que controlen diferentes modelos de tiras LED, como la WS2811, utilizada por nuestro grupo de trabajo. Esta librería permite trabajar con siglas de composición de los colores primarios (RGB por defecto) y alterarlos, ajustar la intensidad de los LEDs, emplear funciones rápidas y eficientes, superiores a las por defecto de Arduino. Creada por Daniel Garcia. 
+- *FastLED*:
+- *FastLED*:
+- *FastLED*:
+- *FastLED*:
+- *FastLED*:
 
 **"Mapeado de los lEDs":**
 
