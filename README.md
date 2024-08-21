@@ -13,7 +13,7 @@ Los beneficios de este proyecto para los niños de la casa son:
 
 -**Habilidades Tecnológicas:** Ayuda a los niños a familiarizarse con la tecnología en un entorno seguro mientras les ayuda a desarrollar habilidades tecnológicas tempranas, lo que es crucial en el mundo actual.
 
--**"Relajación por medio de estimulación sensorial controlada":** 
+-**Relajación por medio de estimulación sensorial controlada:** 
 La luz suave y los patrones de color cambiantes crean un ambiente sensorial que promueve la calma y la concentración.
 
 -**Aulas interactivas:** La mesa busca convertirse en una herramienta ideal para aulas interactivas, donde los estudiantes pueden participar en actividades grupales o individuales que fomenten la colaboración, la concentración y el aprendizaje a través de la tecnología. Para futuras aplicaciones nuestra mesa inteligente tiene el potencial de ser una herramienta poderosa no solo en el hogar, sino también en entornos educativos y terapéuticos.
