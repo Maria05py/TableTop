@@ -78,7 +78,7 @@ El diseño 3D, a cargo del estudiante Braulio Garro Marín, fue creado desde 0 e
 - Cables (Preferiblemente de gran cantidad de colores en pro de mejorar la simplicidad de los pasos). 
   
 ## Pasos y creación:
-Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad: Unión de cada parte de la melamina (base de la mesa), uniones entre los separadores de la matriz (correspondientes a las "dentaduras"), etc... 
+Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad: Unión de cada parte de la melamina (base de la mesa), uniones entre los separadores de la matriz (correspondientes a las "dentaduras") etc... 
 
 ![image](https://github.com/user-attachments/assets/cea96dda-4b39-48cc-afbb-f9b701a0e02d)
 ![image](https://github.com/user-attachments/assets/ab316317-6fc9-4fa2-8db5-f5c170075d2d)
@@ -98,7 +98,7 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 
 3) Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
 
-![image](https://github.com/user-attachments/assets/403b6e23-aa44-4d95-8ec2-5d2b749a38d8)
+![image](https://github.com/user-attachments/assets/403b6e23-aa44-4d95-8ec2-5d2b749a38d8) 
 (Imagen de los pinouts para mejor referencia)
 
 ![Imagen de WhatsApp 2024-08-20 a las 17 44 42_55fda35c](https://github.com/user-attachments/assets/5f4c7657-ddb4-4b23-b351-3f3ff5901109)
@@ -106,14 +106,14 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 
 ![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 
-Luego se deben de pegar con silicón los 100 sensores infrarrojos a los separadores de la matriz con silicón caliente. Seguidamente se sueldan los pines GND, 5+ y output entre sí como es posible observar en las siguientes fotografías.
+4) Luego se deben de pegar con silicón los 100 sensores infrarrojos a los separadores de la matriz con silicón caliente. Seguidamente se sueldan los pines GND, 5+ y output entre sí como es posible observar en las siguientes fotografías.
 
 ![image](https://github.com/user-attachments/assets/985cd7f6-e2ed-48e9-9cc3-8d96c03b7654)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_f2a4d858](https://github.com/user-attachments/assets/b5e2ec93-259d-41d5-8a67-c49765612f34)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_85e9ffc6](https://github.com/user-attachments/assets/6ed487dd-6677-4b03-8f43-cdc099f4fda1)
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 
-Seguidamente, para probar las luces fue utilizada una mini matriz de pruebas, para la cual fue utilizda la versión de "LEDMatrix.ino, editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional)
+5) Con el propósito de probar la lógica detrás de la matriz led, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de c+odigo fue utilizda la versión de "LEDMatrix.ino, editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional)
 
 ![placa de pruebas](https://github.com/user-attachments/assets/6a004c6f-42af-4e99-a255-8d5191c240c0)
 
@@ -121,12 +121,11 @@ Las conexiones de esta mini versión del display son las mismas utilizadas en el
 
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_20282ce5](https://github.com/user-attachments/assets/9e46617e-34ac-4399-9eff-49172ecd25af)
 
-Para crear el display final se colocan las respectivas tiras de leds de forma en la que queden centradas con respecto a las diferentes cuadrículas de la matriz. Las conexiones entre cada una de las tiras se encuentran debajo de la tabla correspondiente. 
-
+6) Una vez probada la efcacia de la matriz LED, para crear el display final se colocan las respectivas tiras de leds previamente preparadas (en este caso, las tiras alteradas con su debida separación de 5cm) de forma en la cual cada led quede centrado con respecto a su respectiva. Las conexiones entre cada una de las tiras se encuentran debajo de la tabla correspondiente. 
 ![Imagen de WhatsApp 2024-08-16 a las 23 11 40_c0f88f87](https://github.com/user-attachments/assets/a1d1e9e4-0f1c-4222-875c-df0e3e4b3c2d)
 ![Imagen de WhatsApp 2024-08-16 a las 23 14 34_636a6f1e](https://github.com/user-attachments/assets/58da91ab-2b2f-4863-8540-1ec982f6ca87)
 
-Antes de completar el proceso de montaje del display, se recomienda comprobar el estado de todos los LEDs de la matriz mediante animaciones, dibujos y demás, como se puede observar en las siguientes imágenes. 
+(Antes de completar el proceso de montaje del display, se recomienda comprobar el estado de todos los LEDs de la matriz mediante animaciones, dibujos y demás, como se puede observar en las siguientes imágenes).
 
 ![Imagen de WhatsApp 2024-08-17 a las 18 15 02_96942961](https://github.com/user-attachments/assets/0e985deb-0709-499b-86c6-a509c6283b00)
 ![Imagen de WhatsApp 2024-08-18 a las 12 11 58_bb98c2f2](https://github.com/user-attachments/assets/76872487-675b-47b6-8a41-62a9dde6f59c)
