@@ -109,14 +109,13 @@ A continuación, una imagen correspondiente a los pinouts, importante para obten
 
 ![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 
-4) Luego, una vez preparados los LEDS, se deben de pegar con silicón caliente los 100 sensores infrarrojos a los separadores de la matriz. Seguidamente se sueldan los pines GND y 5+ entre sí (conectando cada pin con el del siguiente sensor, bajo la lógica GND -> GND del siguiente sensor, por ejemplo) como es posible observar en las siguientes fotografías.
+4) Luego, una vez preparados los LEDS, se deben de pegar con silicón caliente los 100 sensores infrarrojos a los separadores de la matriz. Seguidamente se sueldan los pines GND y 5+ entre sí (conectando cada pin con el del siguiente sensor, bajo la lógica GND -> GND del siguiente sensor, por ejemplo) como es posible observar en las siguientes fotografías. Una vez aplicada la corriente respectiva, y al haber calibrado correctamente cada uno de los infrarojos, debe activarse al acercar la mano, incluso tras utilizar el acrílico.
 
 ![image](https://github.com/user-attachments/assets/985cd7f6-e2ed-48e9-9cc3-8d96c03b7654)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_f2a4d858](https://github.com/user-attachments/assets/b5e2ec93-259d-41d5-8a67-c49765612f34)
 ![Imagen de WhatsApp 2024-08-11 a las 13 56 32_85e9ffc6](https://github.com/user-attachments/assets/6ed487dd-6677-4b03-8f43-cdc099f4fda1)
 ![Imagen de WhatsApp 2024-08-15 a las 14 14 28_cd028e31](https://github.com/user-attachments/assets/6e28e663-47e0-4ad0-9cc2-49c20b4d5b0c)
 ![image](https://github.com/user-attachments/assets/366fd1cb-1ea5-4644-9ee3-583bd130213c)
-(Una vez aplicada la corriente respectiva, y al haber calibrado correctamente cada uno de los infrarojos, debe activarse al acercar la mano, incluso tras utilizar el acrílico)
 
 5) Con el propósito de probar la lógica detrás de la matriz LED, fue utilizada una mini matriz de pruebas, la cual consiste en 10 tiras de 10 leds sin cortar ni alterar. A nivel de código fue utilizda la versión de "LEDMatrix.ino" editada por Matthew Kaye. El código original se puede encontrar en el siguiente enlace, el cual debe descargarse como .zip: https://github.com/N00d13/10x10_LED_MATRIX_ANIMATIONS. (Paso opcional). La lógica detrás de la conexiones se puede observar en las conexiones mostradas en la siguiente imagen:
 
