@@ -85,13 +85,16 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 ![image](https://github.com/user-attachments/assets/9cddcc93-1087-4b29-9495-8d67c8af48c2)
 ![image](https://github.com/user-attachments/assets/98d67322-14f6-40d8-8412-d35c240fbdb2)
 
-1) Enlistados en orden, con respecto a los componentes electónicos, primeramente se deben de calibrar los 100 sensores infrarrojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarrojos correspondientes, esto se logra ajustando el "Distance Adjust" (Mirar la imagen de referencia). 2) Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente. Es importante conectar 10 tiras de 10 LEDs, cuidando la orientación de las flechas, ya que todas deben apuntar hacia un mismo sentido. 
+1) Enlistados en orden, con respecto a los componentes electónicos, primeramente se deben de calibrar los 100 sensores infrarrojos para que los mismos reaccionen ante una distancia similar al momento de pasar la mano por encima de los infrarrojos correspondientes, esto se logra ajustando el "Distance Adjust" (Mirar la imagen de referencia).
 
 ![image](https://github.com/user-attachments/assets/2c02cb5e-a3f0-4da5-8d44-7647c383b616)
 
 ![Imagen de WhatsApp 2024-08-20 a las 17 43 21_59c6724c](https://github.com/user-attachments/assets/751931e9-5802-462f-8462-bf4397f7b7c8)
 ![image](https://github.com/user-attachments/assets/be3ef577-d0fc-41c9-b9e3-aff1f6c9b0c3)
-(Corte de los cables y uso de la protoboard para calibrar los 100 sensores infrarojos a utilizar. Se recomienda el uso de la protoboard para probar al menos 5-6 seonsores infrarojos a la vez en pro de agilizar el proceso de creación).
+(Uso de la protoboard para calibrar los 100 sensores infrarojos a utilizar. Se recomienda el uso de la protoboard para probar al menos 5-6 seonsores infrarojos a la vez en pro de agilizar el proceso de creación).
+
+2) Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente. Es importante conectar 10 tiras de 10 LEDs, cuidando la orientación de las flechas, ya que todas deben apuntar hacia un mismo sentido. 
+
 
 3) Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
 
@@ -101,9 +104,6 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 ![Imagen de WhatsApp 2024-08-20 a las 17 44 42_55fda35c](https://github.com/user-attachments/assets/5f4c7657-ddb4-4b23-b351-3f3ff5901109)
 (Imagen de referencia: Colores y lógica detrás de las conexiones entre los respectivos leds. Nota: Cables de 5cm de longitud.)
 
-![image](https://github.com/user-attachments/assets/e75d7ab4-8aed-4f1d-bdf3-5083e333dd1f)
-![image](https://github.com/user-attachments/assets/deed618c-77c6-4638-b285-7de243821142)
-![image](https://github.com/user-attachments/assets/4c2cef89-ea78-4df5-ba46-4a564869e9fa)
 ![image](https://github.com/user-attachments/assets/5faa360f-aaec-4ef5-a2cf-50a391a99a63)
 
 Luego se deben de pegar con silicón los 100 sensores infrarrojos a los separadores de la matriz con silicón caliente. Seguidamente se sueldan los pines GND, 5+ y output entre sí como es posible observar en las siguientes fotografías.
