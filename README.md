@@ -89,19 +89,17 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 
 ![image](https://github.com/user-attachments/assets/2c02cb5e-a3f0-4da5-8d44-7647c383b616)
 
-![Imagen de WhatsApp 2024-08-20 a las 17 43 21_59c6724c](https://github.com/user-attachments/assets/751931e9-5802-462f-8462-bf4397f7b7c8)
 ![image](https://github.com/user-attachments/assets/be3ef577-d0fc-41c9-b9e3-aff1f6c9b0c3)
 (Uso de la protoboard para calibrar los 100 sensores infrarojos a utilizar. Se recomienda el uso de la protoboard para probar al menos 5-6 seonsores infrarojos a la vez en pro de agilizar el proceso de creación).
 
-2) Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente. Es importante conectar 10 tiras de 10 LEDs, cuidando la orientación de las flechas, ya que todas deben apuntar hacia un mismo sentido. 
-
+2) Seguidamente, se procede a cortar cable de 3 tres colores diferentes (En nuestro caso rojo, verde y negro) de 5cm para conectar correctamente cada uno de los pines de la tira de LED (5V, GRN y DO) respectivamente. Es importante conectar 10 tiras de 10 LEDs, cuidando la orientación de las flechas, ya que todas deben apuntar hacia un mismo sentido.
+   
+![Imagen de WhatsApp 2024-08-20 a las 17 43 21_59c6724c](https://github.com/user-attachments/assets/751931e9-5802-462f-8462-bf4397f7b7c8)
 
 3) Una vez conectados los pines en tiras de 10 LEDs (colocando soldadura a cada final de los cables y colocando cada color en su pin correspondiente) como es posible visualizar en las siguientes imágenes.
 
 ![image](https://github.com/user-attachments/assets/403b6e23-aa44-4d95-8ec2-5d2b749a38d8)
 (Imagen de los pinouts para mejor referencia)
-
-![image](https://github.com/user-attachments/assets/2c02cb5e-a3f0-4da5-8d44-7647c383b616)
 
 ![Imagen de WhatsApp 2024-08-20 a las 17 44 42_55fda35c](https://github.com/user-attachments/assets/5f4c7657-ddb4-4b23-b351-3f3ff5901109)
 (Imagen de referencia: Colores y lógica detrás de las conexiones entre los respectivos leds. Nota: Cables de 5cm de longitud.)
