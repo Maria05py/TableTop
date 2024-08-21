@@ -101,6 +101,8 @@ Una vez cortadas y listas las piezas, se procede a armar la mesa en su totalidad
 ![image](https://github.com/user-attachments/assets/403b6e23-aa44-4d95-8ec2-5d2b749a38d8)
 (Imagen de los pinouts para mejor referencia)
 
+![image](https://github.com/user-attachments/assets/2c02cb5e-a3f0-4da5-8d44-7647c383b616)
+
 ![Imagen de WhatsApp 2024-08-20 a las 17 44 42_55fda35c](https://github.com/user-attachments/assets/5f4c7657-ddb4-4b23-b351-3f3ff5901109)
 (Imagen de referencia: Colores y lógica detrás de las conexiones entre los respectivos leds. Nota: Cables de 5cm de longitud.)
 
